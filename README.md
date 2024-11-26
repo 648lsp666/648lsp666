@@ -13,7 +13,7 @@
 
 <!-- profile logo 个人资料徽标 -->
   <div>
-    <a href="https://www.peterjxl.com/"><img src="https://sanli-2946.xlog.app/" /></a>&emsp;
+    <a href="https://sanli-2946.xlog.app/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
     <img src="https://komarev.com/ghpvc/?username=Sanli&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
   </div>
 
