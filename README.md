@@ -1,102 +1,108 @@
 <div align="center">
 
-  <!-- knock code pictures 敲代码的图片 -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
-    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-  </picture>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=620&lines=Frontend+Engineer+%F0%9F%9A%80;Builder+%26+Tinkerer+%E2%9A%99%EF%B8%8F;%E5%9C%A8%E5%AD%97%E8%8A%82%E6%90%AC%E7%A0%96%EF%BC%8C%E5%81%B7%E5%81%B7%E9%80%A0%E4%B8%9C%E8%A5%BF;AI+Tools+Enthusiast+%F0%9F%A4%96;Side+Hustler+in+Progress)](https://github.com/648lsp666)
 
-  <!-- for beauty 留个空行好看点 -->
-  <div>&nbsp;</div>
+</div>
 
+---
 
-<!-- profile logo 个人资料徽标 -->
-  <div>
-    <a href="https://sanli-2946.xlog.app/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
-    <img src="https://komarev.com/ghpvc/?username=Sanli&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
-  </div>
+## 嗨，我是 Sanli 👋
 
-<!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+前端工程师 @ 字节跳动 · 喜欢造东西 · 关注 AI 如何改变生活
+
+_Frontend Engineer · Building side projects · Exploring the AI-powered future_
+
+![ByteDance](https://img.shields.io/badge/ByteDance-FF0000?style=flat-square&logo=bytedance&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Side Hustler](https://img.shields.io/badge/Side_Hustler-22d3ee?style=flat-square&logoColor=white)
+![Views](https://komarev.com/ghpvc/?username=648lsp666&style=flat-square&color=22d3ee&label=Profile+Views)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/648lsp666">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=648lsp666&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0a0a0a&title_color=22d3ee&icon_color=22d3ee&text_color=a3a3a3&ring_color=22d3ee" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=648lsp666&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=22d3ee&text_color=a3a3a3&langs_count=8" />
+</a>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=648lsp666&theme=tokyonight&hide_border=true&background=0a0a0a&ring=22d3ee&fire=22d3ee&currStreakLabel=22d3ee&sideLabels=a3a3a3&dates=a3a3a3&sideNums=e5e5e5&currStreakNum=22d3ee)](https://github.com/648lsp666)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/648lsp666/648lsp666/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/648lsp666/648lsp666/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/648lsp666/648lsp666/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=648lsp666&theme=tokyo-night&bg_color=0a0a0a&color=22d3ee&line=22d3ee&point=ffffff&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=648lsp666&theme=xcode&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=648lsp666&theme=tokyo-night&bg_color=0a0a0a&color=22d3ee&line=22d3ee&point=ffffff&hide_border=true" />
 </picture>
 
 </div>
 
-#  🙋 Hello
+---
 
-<table>
-  
-<tr><td>
+## 🏗️ 3D Contribution Graph
 
-### 🤺 About Me
+<div align="center">
 
-<img align="right" width="88" src="https://avatars.githubusercontent.com/u/45090349?v=4" />
+<img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
 
-<p>&emsp;&emsp;嗨，我是Sanli。热爱编程、健身、羽毛球🏸。</p>
-<p>&emsp;&emsp;梦想是成为一名优秀的coder && 拥有自己的生活</p>
-<p>&emsp;&emsp; 个人博客：onGoing</p>
-<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
-<p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
+</div>
 
+---
 
-  <!-- for beauty 留个空行好看点 -->
-  <div>&nbsp;</div>
+## 🛠️ Tech Stack
 
-</td></tr>
+<div align="center">
 
-<tr><td>
+[![My Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,python,git,vercel,vscode&theme=dark)](https://skillicons.dev)
 
-## 🏢 Work Experience
+</div>
 
-<img align="right" width="200" src="https://cdn.jsdelivr.net/gh/648lsp666/648lsp666@main/assets/images/GRCBank.png" />
+---
 
-<img align="right" width="200" src="https://cdn.jsdelivr.net/gh/648lsp666/648lsp666@main/assets/images/Inspur.PNG" />
+## 🚀 Projects
 
-- **深圳云链协作科技公司**   📌 2019-07 —— 2020-02
+<div align="center">
 
-  - 工作岗位：实习生
-  - 工作内容：负责大部分前端开发工作
+[![见微 Prowl](https://github-readme-stats.vercel.app/api/pin/?username=648lsp666&repo=opportunity-radar&hide_border=true&bg_color=0a0a0a&title_color=22d3ee&icon_color=22d3ee&text_color=a3a3a3)](https://github.com/648lsp666/opportunity-radar)
 
+</div>
 
-  <!-- for beauty 留个空行好看点 -->
-  <div>&nbsp;</div>
-  
-</td></tr>
+---
 
+## 🐍 Contribution Snake
 
+<div align="center">
 
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/648lsp666/648lsp666/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/648lsp666/648lsp666/output/github-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/648lsp666/648lsp666/output/github-snake-dark.svg" />
+</picture>
 
-## 📊 GitHub 数据统计
+</div>
 
+---
 
+<div align="center">
 
-<!-- metrics 基础资料 -->
-<img src="/github-metrics.svg" />
+[![GitHub](https://img.shields.io/badge/GitHub-648lsp666-181717?style=flat-square&logo=github)](https://github.com/648lsp666)
+[![Website](https://img.shields.io/badge/Website-sanli--home.vercel.app-22d3ee?style=flat-square&logo=vercel&logoColor=white)](https://sanli-home.vercel.app)
+[![Email](https://img.shields.io/badge/Email-alexeisiemail%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:alexeisiemail@gmail.com)
 
-<!-- GitHub 数据统计 -->
+_"好的产品是把复杂藏起来，把简单留给用户。"_
 
-<img src= "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sanli&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> 
-
-<img src  = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sanli&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-
-
-
-<!-- GitHub Activity Graph GitHub 活动图 -->
-<table>
-  <tr>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-activity-graph.vercel.app/graph?username=Sanli&theme=tokyo-night" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Sanli&theme=xcode" />
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanli&theme=tokyo-night" />
-      </picture>
-  </tr>
-</table>
-
-
-
+</div>
