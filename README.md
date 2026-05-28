@@ -77,7 +77,7 @@ _Frontend Engineer · Building side projects · Exploring the AI-powered future_
 
 <div align="center">
 
-[![见微 Prowl](https://github-readme-stats.vercel.app/api/pin/?username=648lsp666&repo=opportunity-radar&hide_border=true&bg_color=0a0a0a&title_color=22d3ee&icon_color=22d3ee&text_color=a3a3a3)](https://github.com/648lsp666/opportunity-radar)
+[![见微 Prowl](https://github-readme-stats.vercel.app/api/pin/?username=648lsp666&repo=Find-My-chance&hide_border=true&bg_color=0a0a0a&title_color=22d3ee&icon_color=22d3ee&text_color=a3a3a3)](https://github.com/648lsp666/Find-My-chance)
 
 </div>
 
