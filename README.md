@@ -25,8 +25,8 @@ _Frontend Engineer · Building side projects · Exploring the AI-powered future_
 <div align="center">
 
 <a href="https://github.com/648lsp666">
-  <img height="180em" src="https://github-readme-stats-lovat-theta-92.vercel.app/api?username=648lsp666&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0a0a0a&title_color=22d3ee&icon_color=22d3ee&text_color=a3a3a3&ring_color=22d3ee" />
-  <img height="180em" src="https://github-readme-stats-lovat-theta-92.vercel.app/api/top-langs/?username=648lsp666&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=22d3ee&text_color=a3a3a3&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats-lovat-theta-92.vercel.app/api?username=648lsp666&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0a0a0a&title_color=22d3ee&icon_color=22d3ee&text_color=a3a3a3&ring_color=22d3ee&v=2" />
+  <img height="180em" src="https://github-readme-stats-lovat-theta-92.vercel.app/api/top-langs/?username=648lsp666&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=22d3ee&text_color=a3a3a3&langs_count=8&v=2" />
 </a>
 
 </div>
@@ -77,7 +77,7 @@ _Frontend Engineer · Building side projects · Exploring the AI-powered future_
 
 <div align="center">
 
-[![见微 Prowl](https://github-readme-stats-lovat-theta-92.vercel.app/api/pin/?username=648lsp666&repo=Find-My-chance&hide_border=true&bg_color=0a0a0a&title_color=22d3ee&icon_color=22d3ee&text_color=a3a3a3)](https://github.com/648lsp666/Find-My-chance)
+[![见微 Prowl](https://github-readme-stats-lovat-theta-92.vercel.app/api/pin/?username=648lsp666&repo=Find-My-chance&hide_border=true&bg_color=0a0a0a&title_color=22d3ee&icon_color=22d3ee&text_color=a3a3a3&v=2)](https://github.com/648lsp666/Find-My-chance)
 
 </div>
 
